@@ -1,5 +1,7 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+## Name: KISHORE NARAYANAN S R
+## Reg.No: 212223110023
 # AIM:
 To Write a C program that illustrates files copying and locking
 
